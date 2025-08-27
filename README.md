@@ -130,13 +130,6 @@ RECAPTCHA_PUBLIC_KEY=your-recaptcha-public-key
 RECAPTCHA_PRIVATE_KEY=your-recaptcha-private-key
 ```
 
-### Configuration reCAPTCHA
-
-#### Clés de test (développement uniquement)
-Pour le développement, l'application utilise des clés de test par défaut :
-- **Clé publique** : `6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI`
-- **Clé privée** : `6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe`
-
 #### Clés de production
 Pour la production, vous devez obtenir vos propres clés :
 1. Aller sur https://www.google.com/recaptcha/admin
